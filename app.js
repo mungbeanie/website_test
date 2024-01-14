@@ -11,8 +11,8 @@ let dvd = {
     img: new Image(),
     // position on screen
     // top left of image
-    xPos: 200,
-    yPos: 300,
+    xPos: 50,
+    yPos: 100,
     // speed
     xSpeed: 10,
     ySpeed: 10,
