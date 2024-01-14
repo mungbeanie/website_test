@@ -10,7 +10,7 @@ const isBrowserMobile = () => {
   return check;
 };
 
-let scale = isBrowserMobile() ? (0.15 / 4): 0.15;
+let scale = isBrowserMobile() ? (0.15 / 2): 0.15;
 
 // TODO: fix when image gets stuck on resize edge
 
